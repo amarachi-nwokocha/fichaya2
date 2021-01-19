@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap");
+body {
+  font-family: "Mukta", sans-serif;
+  background-color: #e5e5e5;
+}
+.sq1 {
+  height: 40px;
+  width: 40px;
+  left: 1210px;
+  top: 15px;
+  border-radius: 4px;
+  background-color: #2e2e99;
+  padding-right: 2rem;
+}
+.sq2 {
+  height: 40px;
+  width: 64px;
+  left: 1255.5999755859375px;
+  top: 15px;
+  border-radius: 4px;
+  background-color: #2e2e99;
+}
+.square{
+  position: relative;
+  height: 381px;
+width: 682px;
+left: 120px;
+top: 90px;
+border-radius: 10px;
+background-color:#e5e5e5;
+}
+.up{
+  color: #606077;
+
+
+}
+.down{
+color :#2e2e99;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.04em;
+text-align: left;
+
+}
+.block{
+  list-style: none;
+  display: block;
+  padding: 2rem;
+  text-align: center;
+  border-bottom: 0.5px solid #606077;
+  color:#606077;
+}
+#drop{
+  height: 50px;
+width: 215px;
+left: 551px;
+top: 486px;
+border-radius: 5px;
+color :#2e2e99;
+}
+.butt{
+  margin-top: 3rem;
+  background-color: #2e2e99;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.twice {
+  display: flex;
+  justify-content: space-around;
+}
+#box1 {
+  background-color: #ffffff;
+  height: 488px;
+  width: 580px;
+  left: 120px;
+  top: 225.5px;
+  border-radius: 10px;
+  border: 1px solid #ededed;
+}
+.form {
+  margin: 3rem;
+}
+.space {
+  justify-content: space-between;
+}
+.twice input {
+  border: 1px solid #dea000;
+}
